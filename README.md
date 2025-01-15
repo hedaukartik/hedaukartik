@@ -5,7 +5,7 @@
 I am a Staff Software Engineer with over 6 years of experience designing and developing scalable, high-performance web applications. My focus areas include cybersecurity, health tech, and finance, where I lead cross-functional teams and deliver robust architectures. I'm passionate about building intuitive, performant user interfaces and developer-friendly experiences.
 
 - 🌍 **Location:** Bangalore, India
-- 💼 **Current Role:** Staff Software Engineer at [Zscaler](https://www.zscaler.com/) (Cybersecurity and Zero Trust Leader)
+- 💼 **Current Role:** Sr. Staff Software Engineer at [Zscaler](https://www.zscaler.com/) (Cybersecurity and Zero Trust Leader)
 - 📧 **Contact:** [hedaukartik2009@gmail.com](mailto:hedaukartik2009@gmail.com)
 - 🌐 **Portfolio:** [kartikhedau.in](https://www.kartikhedau.in/)
 - 🐙 **GitHub:** [github.com/hedaukartik](https://github.com/hedaukartik)
