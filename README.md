@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kartik Hedau
 
-### 🚀 Staff Software Engineer | Full Stack & UI Expert
+### 🚀 Sr. Staff Software Engineer | Full Stack & UI Expert
 
 I am a Staff Software Engineer with over 6 years of experience designing and developing scalable, high-performance web applications. My focus areas include cybersecurity, health tech, and finance, where I lead cross-functional teams and deliver robust architectures. I'm passionate about building intuitive, performant user interfaces and developer-friendly experiences.
 
